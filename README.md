@@ -7,14 +7,18 @@ Rice_Image_Classification
 
 
 |
-|--- #Train
+|--- **#Train**
+
+
 |     |---Arborio (12000 images)
 |     |---Basmati (12000 images)
 |     |---Ipsala (12000 images)
 |     |---Jasmine (12000 images)
 |     |---Karacadag (12000 images)
 |
-|--- #Test/Validation
+|--- #**Test/Validation**
+
+
       |---Arborio (3000 images)
       |---Basmati (3000 images)
       |---Ipsala (3000 images)
