@@ -28,7 +28,7 @@ Rice_Image_Classification
 
 
       
-#**Results**
+**Results**
 
 
 
