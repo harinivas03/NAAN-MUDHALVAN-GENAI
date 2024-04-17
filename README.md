@@ -6,7 +6,7 @@ The [Original Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-im
 Rice_Image_Classification
 
 
-|
+
 |--- **Train**
 
 
@@ -15,7 +15,8 @@ Rice_Image_Classification
 |     |---Ipsala (12000 images)
 |     |---Jasmine (12000 images)
 |     |---Karacadag (12000 images)
-|
+
+
 |--- **Test/Validation**
 
 
