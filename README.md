@@ -20,18 +20,18 @@ Rice_Image_Classification
 |--- **Test/Validation**
 
 
-      |---Arborio (3000 images)
-      |---Basmati (3000 images)
-      |---Ipsala (3000 images)
-      |---Jasmine (3000 images)
-      |---Karacadag (3000 images)
+  |---Arborio (3000 images)
+  |---Basmati (3000 images)
+  |---Ipsala (3000 images)
+  |---Jasmine (3000 images)
+  |---Karacadag (3000 images)
 
 
       
-#Results
+#**Results**
 
 
 
 Performed prediction using Pre-trained ResNet-18. Accuracy on Training data = 17.805 % and that on Validation/Test data = 19.793 %
-Trained ResNet-18 from scratch using Training dataset for 20 epochs. Train Accuracy = 99.95 % and Validation/Test Accuracy = 99.88 %
-
+Trained ResNet-18 from scratch using Training dataset for 20 epochs. **Train Accuracy = 99.95 % and Validation/Test Accuracy = 99.88 %
+**
